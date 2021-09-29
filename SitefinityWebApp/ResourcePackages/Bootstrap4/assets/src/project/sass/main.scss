@@ -1,7 +1,14 @@
-//Bootstrap
+$enable-gradients: true;
+    
+    //Bootstrap
 @import "../../vendors/all";
 
 //Sitefinity
-@import "../../sitefinity/sass/sitefinity";
+//@import "../../sitefinity/sass/sitefinity";
 
 //Import .scss files here
+
+
+img {
+    image-rendering: crisp-edges;
+}

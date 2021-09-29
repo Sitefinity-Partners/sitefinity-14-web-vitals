@@ -1287,6 +1287,12 @@
     <Content Include="ResourcePackages\Bootstrap4\assets\src\sitefinity\sass\base\_list.scss" />
     <Content Include="ResourcePackages\Bootstrap4\assets\src\project\sass\main.scss" />
     <Content Include="ResourcePackages\Bootstrap4\assets\src\project\sass\adminapp\editor.scss" />
+    <Content Include="ResourcePackages\Bootstrap4\MVC\Views\Navigation\NavigationView.FooterBetter.cshtml" />
+    <Content Include="ResourcePackages\Bootstrap4\MVC\Views\Navigation\NavigationView.Footer.cshtml" />
+    <Content Include="ResourcePackages\Bootstrap4\MVC\Views\Navigation\NavigationView.HorizontalBetter.cshtml" />
+    <Content Include="ResourcePackages\Bootstrap4\MVC\Views\Breadcrumb\BreadcrumbBetter.cshtml" />
+    <Content Include="ResourcePackages\Bootstrap4\MVC\Views\Card\Card.HeroBetter.cshtml" />
+    <Content Include="ResourcePackages\Bootstrap4\MVC\Views\Image\ImageDimensionsBetter.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
