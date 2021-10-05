@@ -1005,6 +1005,7 @@
     <Content Include="App_Data\Sitefinity\TrackingConsent\consentDialog.html" />
     <Content Include="Default.aspx" />
     <Content Include="extensions.bundle.js" />
+    <Content Include="favicon.ico" />
     <Content Include="Mvc\Controllers\readme.txt" />
     <Content Include="Mvc\Models\readme.txt" />
     <Content Include="Mvc\Views\readme.txt" />
