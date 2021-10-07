@@ -1,6 +1,6 @@
 # Bootstrap package
 
-This package is based on the [Bootstrap 4 framework](http://getbootstrap.com/). To use the package, you simply add it to the `ResourcePackages folder` of your project. In case the `ResourcePackages` folder does not contain any packages, widget templates are loaded from *Embedded resources* or from the **MVC** folder of **SitefinityWebApp** folder only if it contains files with names, matching the naming convention. The priority for loading templates is as follows (in descending order):
+This package is based on the [Bootstrap 5 framework](http://getbootstrap.com/). To use the package, you simply add it to the `ResourcePackages folder` of your project. In case the `ResourcePackages` folder does not contain any packages, widget templates are loaded from *Embedded resources* or from the **MVC** folder of **SitefinityWebApp** folder only if it contains files with names, matching the naming convention. The priority for loading templates is as follows (in descending order):
 1. Templates from the resource package
 2. Templates in the **MVC** folder of **SitefinityWebApp**
 3. Templates from the *Embedded resources* source
