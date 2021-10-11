@@ -1371,7 +1371,6 @@
     <Content Include="ResourcePackages\Bootstrap5\MVC\Views\Captcha\Write.Default.cshtml" />
     <Content Include="ResourcePackages\Bootstrap5\MVC\Views\Card\Card.cshtml" />
     <Content Include="ResourcePackages\Bootstrap5\MVC\Views\Card\Card.Hero.cshtml" />
-    <Content Include="ResourcePackages\Bootstrap5\MVC\Views\Card\Card.HeroBetter.cshtml" />
     <Content Include="ResourcePackages\Bootstrap5\MVC\Views\Card\Card.Simple.cshtml" />
     <Content Include="ResourcePackages\Bootstrap5\MVC\Views\ChangePassword\ChangePassword.ChangePassword.cshtml" />
     <Content Include="ResourcePackages\Bootstrap5\MVC\Views\CheckboxesField\Read.Default.cshtml" />
@@ -1406,7 +1405,6 @@
     <Content Include="ResourcePackages\Bootstrap5\MVC\Views\HierarchicalTaxonomy\HierarchicalTaxonomy.CategoriesList.cshtml" />
     <Content Include="ResourcePackages\Bootstrap5\MVC\Views\Image\Image.cshtml" />
     <Content Include="ResourcePackages\Bootstrap5\MVC\Views\Image\ImageDimensions.cshtml" />
-    <Content Include="ResourcePackages\Bootstrap5\MVC\Views\Image\ImageDimensionsBetter.cshtml" />
     <Content Include="ResourcePackages\Bootstrap5\MVC\Views\ImageGallery\Detail.DetailPage.cshtml" />
     <Content Include="ResourcePackages\Bootstrap5\MVC\Views\ImageGallery\List.ImageGallery.cshtml" />
     <Content Include="ResourcePackages\Bootstrap5\MVC\Views\ImageGallery\List.OverlayGallery.cshtml" />
@@ -1432,9 +1430,7 @@
     <Content Include="ResourcePackages\Bootstrap5\MVC\Views\MultipleChoiceField\Write.Default_Inline.cshtml" />
     <Content Include="ResourcePackages\Bootstrap5\MVC\Views\Navigation\Dropdown.cshtml" />
     <Content Include="ResourcePackages\Bootstrap5\MVC\Views\Navigation\NavigationView.Footer.cshtml" />
-    <Content Include="ResourcePackages\Bootstrap5\MVC\Views\Navigation\NavigationView.FooterBetter.cshtml" />
     <Content Include="ResourcePackages\Bootstrap5\MVC\Views\Navigation\NavigationView.Horizontal.cshtml" />
-    <Content Include="ResourcePackages\Bootstrap5\MVC\Views\Navigation\NavigationView.HorizontalBetter.cshtml" />
     <Content Include="ResourcePackages\Bootstrap5\MVC\Views\Navigation\NavigationView.Pills.cshtml" />
     <Content Include="ResourcePackages\Bootstrap5\MVC\Views\Navigation\NavigationView.Sitemap.cshtml" />
     <Content Include="ResourcePackages\Bootstrap5\MVC\Views\Navigation\NavigationView.Tabs.cshtml" />

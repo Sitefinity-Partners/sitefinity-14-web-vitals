@@ -1,5 +1,5 @@
 // Generating padding and margin silent classes
-// Based on Bootstrap 4 _spacing.scss. Using Bootstrap 4 $spacers variable.
+// Based on Bootstrap 5 _spacing.scss. Using Bootstrap 5 $spacers variable.
 // e.g. %pl-2 %mt-3 %py-5 etc.
 
 @each $prop, $abbrev in (margin: m, padding: p) {

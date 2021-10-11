@@ -11,19 +11,17 @@
         @foreach (var node in Model.Nodes)
         {
             i++;
-            <a class="@GetClass(node)" href="@node.Url" target="@node.LinkTarget">@((i > 1) ? "-" + node.Title : node.Title)</a>        
-        }
+<a class="text-dark @GetClass(node)" href="@node.Url" target="@node.LinkTarget">@((i > 1) ? "-" + node.Title : node.Title)</a>}
     </nav>
 </div>
 
 @helper GetClass(NodeViewModel node)
-{   
-    if (node.IsCurrentlyOpened)
-    {
-        @Html.HtmlSanitize("active");
-    }
-    else if (node.HasChildOpen)
-    {
-        @Html.HtmlSanitize("active");
-    }
+{if (node.IsCurrentlyOpened)
+                    {
+    @Html.HtmlSanitize("active");
+}
+else if (node.HasChildOpen)
+{
+@Html.HtmlSanitize("active");
+}
 }
