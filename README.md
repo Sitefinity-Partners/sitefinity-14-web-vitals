@@ -7,6 +7,16 @@ Learn by example how to improve your performance, accessibility, best practices,
 
 ### Lighthouse Score Examples
 
+All these tests use HTTPS, HTTP2, compression, a long static cache setting, a long Sitefinity cache policy, and start with the same light Bootstrap theme.
+
+You can measure your site at https://web.dev/measure/
+
+These scores affect your search performance and that can be analyzed using [Google Search Console](https://search.google.com/search-console)
+
+Documentation of how to create your own Resource Package for Sitefinity can be found at:
+
+https://www.progress.com/documentation/sitefinity-cms/overview-resource-packages-mvc
+
 #### Default Bootstrap 4 Resource Package
 https://trustbancorp.com/home-b
 
@@ -17,7 +27,7 @@ Uses original size PNG image files with older image templates, incomplete metada
 #### Tuned Bootstrap 4 Resource Package
 https://trustbancorp.com/
 
-Uses WebP image files with new Sitefinity 14 image templates and thumbnails, complete metadata, but still uses jQuery. 
+Uses deferred JavaScript, WebP image files with new Sitefinity 14 image templates and thumbnails, complete metadata, but still uses jQuery. 
 
 ![alt text](documentation/lighthouse.png)
 
