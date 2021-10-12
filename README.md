@@ -1,5 +1,4 @@
 # sitefinity-14-web-vitals
 Achieve the Best Lighthouse Score With Sitefinity 14
 
-
-[![Build and deploy ASP app to Azure Web App - trustbancorp](https://github.com/Sitefinity-Partners/sitefinity-14-web-vitals/actions/workflows/main_trustbancorp.yml/badge.svg)](https://github.com/Sitefinity-Partners/sitefinity-14-web-vitals/actions/workflows/main_trustbancorp.yml)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Sitefinity-Partners_sitefinity-14-web-vitals&metric=alert_status&token=d83fca59415818a88ad9c0b8e655d1a525e27e30)](https://sonarcloud.io/dashboard?id=Sitefinity-Partners_sitefinity-14-web-vitals)
